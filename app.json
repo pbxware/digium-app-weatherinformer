@@ -1,0 +1,8 @@
+{
+	"name": "weatherinformer",
+	"displayName" : "Погода",
+	"jsFiles": ["data.js", "informer.js"],
+	"type": "foreground",
+	"iconFile"  : "app.png",
+	"hasIdle": true
+}
